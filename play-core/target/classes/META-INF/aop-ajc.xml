@@ -1,0 +1,8 @@
+<aspectj>
+<aspects>
+<aspect name="com.tnwt.play.entity.Player_Roo_Mongo_Entity"/>
+<aspect name="com.tnwt.play.repository.PlayerRepository_Roo_Mongo_Repository"/>
+<aspect name="com.tnwt.play.entity.Player_Roo_ToString"/>
+</aspects>
+</aspectj>
+
